@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Abhishek Rao",
+    "likecount": "100k",
+    "sharcount": "1M",
+    "commentcount": "10k",
+    "role": "Full-Stack Developer",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEZrATmgHOi5ls0YCCQBTkocia_atSw0X-Q&s"
+  },
+  {
+    "name": "Sneha Kapoor",
+    "likecount": "85k",
+    "sharcount": "900k",
+    "commentcount": "8k",
+    "role": "UI/UX Designer",
+    "img": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "name": "Rohan Mehta",
+    "likecount": "120k",
+    "sharcount": "1.2M",
+    "commentcount": "15k",
+    "role": "Frontend Developer",
+    "img": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "name": "Ananya Singh",
+    "likecount": "95k",
+    "sharcount": "800k",
+    "commentcount": "12k",
+    "role": "Backend Developer",
+    "img": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "name": "Vikram Joshi",
+    "likecount": "110k",
+    "sharcount": "1.1M",
+    "commentcount": "9k",
+    "role": "DevOps Engineer",
+    "img": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "name": "Priya Nair",
+    "likecount": "70k",
+    "sharcount": "750k",
+    "commentcount": "7k",
+    "role": "Data Scientist",
+    "img": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "name": "Amit Sharma",
+    "likecount": "130k",
+    "sharcount": "1.3M",
+    "commentcount": "20k",
+    "role": "Mobile App Developer",
+    "img": "https://randomuser.me/api/portraits/men/50.jpg"
+  },
+  {
+    "name": "Isha Verma",
+    "likecount": "90k",
+    "sharcount": "850k",
+    "commentcount": "11k",
+    "role": "Product Manager",
+    "img": "https://randomuser.me/api/portraits/women/51.jpg"
+  }
+]
