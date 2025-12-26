@@ -17,6 +17,7 @@ Each project focuses on different React concepts like components, props, state, 
 | 7 | Counter App | Simple counter using useState hook | `project 7 Counter App` |
 | 8 | Password Generator | Secure password generator app | `project 8 Password Generator` |
 | 9 | Card Design | Card-based UI design project | `project 9 Card Design` |
+| 10 | Colour Switcher | Switch the different color on Button | `project 10 Colour Switcher` |
 
 ---
 
