@@ -18,6 +18,7 @@ Each project focuses on different React concepts like components, props, state, 
 | 8 | Password Generator | Secure password generator app | `project 8 Password Generator` |
 | 9 | Card Design | Card-based UI design project | `project 9 Card Design` |
 | 10 | Colour Switcher | Switch the different color on Button | `project 10 Colour Switcher` |
+| 11 | Phone E-commerce By json Data | E-Com interface of Different Phones By using Props | `project 10 Phone E-Commerce` |
 
 ---
 
