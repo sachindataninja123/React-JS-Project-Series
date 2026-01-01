@@ -20,6 +20,7 @@ Each project focuses on different React concepts like components, props, state, 
 | 10 | Colour Switcher | Switch the different color on Button | `project 10 Colour Switcher` |
 | 11 | Phone E-commerce By json Data | E-Com interface of Different Phones By using Props | `project 10 Phone E-Commerce` |
 | 12 | NavBar Challenge  | Navbar according to Different screen Sizes | `project 12 Navbar Challenge` |
+| 13 | Popup Notification  | Popup Notification when You click on Button Like Delete and Edit| `project 13 Popup Notification Challenge` |
 
 ---
 
