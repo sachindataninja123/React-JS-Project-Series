@@ -21,6 +21,7 @@ Each project focuses on different React concepts like components, props, state, 
 | 11 | Phone E-commerce By json Data | E-Com interface of Different Phones By using Props | `project 10 Phone E-Commerce` |
 | 12 | NavBar Challenge  | Navbar according to Different screen Sizes | `project 12 Navbar Challenge` |
 | 13 | Popup Notification  | Popup Notification when You click on Button Like Delete and Edit| `project 13 Popup Notification Challenge` |
+| 14 | E-Com Page By FAKEAPI | E-com page That fetches data from Fake API it is with Loader and a Beautiful Home page | `E-Com Page By FAKEAPI` |
 
 ---
 
