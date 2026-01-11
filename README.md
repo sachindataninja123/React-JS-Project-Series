@@ -24,7 +24,9 @@ Each project focuses on different React concepts like components, props, state, 
 | 14 | E-Com Page By FAKEAPI | E-com page That fetches data from Fake API it is with Loader and a Beautiful Home page | `E-Com Page By FAKEAPI` |
 | 15 | Mini Project On Context API | Project That show the beginner use of state Management by Context API | `Mini Project Context API
 ` |
-| 16 | ThemeToggle| Theme Toggle when click on button  | `Theme switcher
+| 16 | ThemeToggle | Theme Toggle when click on button  | `Theme switcher
+` |
+| 17 | Agency AI | Fully Website design With the use of components and props and a minmal design that looks modern. | `Agency AI
 ` |
 
 ---
